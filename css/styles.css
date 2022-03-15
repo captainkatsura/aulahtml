@@ -1,0 +1,15 @@
+body {
+    font-family: Rajdhani;
+}
+
+p {
+    font-size: 12px;
+}
+
+ol {
+    font-size: 12px;
+}
+
+.container-tamanho {
+    width: 500px;
+}
